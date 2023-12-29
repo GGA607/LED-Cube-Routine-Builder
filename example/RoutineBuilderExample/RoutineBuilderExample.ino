@@ -17,9 +17,6 @@ void setup(){
   
 }
 void loop(){
-  //This command contains all the code needed to drivev the device.
-  //It averages out the sensor readings inputted earlier, reads the sensors, and adjusts the motor's movement accordingly
-  //No additional arguements are needed within the brackets
   digitalWrite(routineBuilder.getPositivePin(2, 2), HIGH);
   digitalWrite(routineBuilder.getNegativePin(0), LOW);
   
