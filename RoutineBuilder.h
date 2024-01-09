@@ -1,5 +1,5 @@
 /*  Name: RoutineBuilder.h
-Description: A library for Arduino Uno to create patterns on a multiplexed 3x3 LED Cube
+Description: A library for Arduino Uno to create patterns on a multiplexed 3x3x3 LED Cube
 By: Alec Glasford
 Date Written: December 29th, 2023
 Date(s) Modified: N/A
